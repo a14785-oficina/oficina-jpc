@@ -1,86 +1,90 @@
-# Sobre Mim
+# João Paulo — 14785 👋
 
-Sou aluno do ensino profissional, atualmente a frequentar o **10.º ano do curso Técnico de Gestão e Programação de Sistemas Informáticos (GPSI)**. Tenho interesse em desenvolvimento de software, administração de sistemas, manutenção de computadores e criação de conteúdos digitais. Procuro desenvolver competências sólidas que me preparem para o mercado de trabalho e para estudos superiores na área das tecnologias de informação.
+Aluno do **10.º ano** do Curso Profissional **Técnico de Gestão e Programação de Sistemas Informáticos (GPSI)** na **OFICINA**, em Santo Tirso.
 
----
-
-# Formação
-
-**Curso:** Técnico de Gestão e Programação de Sistemas Informáticos  
-**Nível:** Secundário (Nível 4 do Quadro Nacional de Qualificações)  
-**Equivalência:** 12.º ano de escolaridade  
-**Área de Educação e Formação:** 481 – Ciências Informáticas  
-
-O curso prepara profissionais capazes de conceber, implementar, avaliar e manter sistemas informáticos, tanto de forma autónoma como integrados em equipas multidisciplinares.
+Tenho interesse em desenvolvimento de software, administração de sistemas e criação de conteúdos digitais. Procuro desenvolver competências sólidas que me preparem para o mercado de trabalho e para os estudos superiores na área das Tecnologias de Informação.
 
 ---
 
-# Competências Técnicas
+## 🎓 Formação
 
-- **Programação:** Python, C, algoritmia, desenvolvimento de aplicações e sistemas de informação  
-- **Sistemas e Hardware:** Instalação, configuração e manutenção de sistemas operativos (cliente e servidor), manutenção de computadores, diagnóstico e reparação  
-- **Redes:** Instalação, configuração e manutenção de redes locais, servidores e equipamentos de comunicação  
-- **Bases de Dados:** Conceção, implementação e manutenção de bases de dados; manipulação de dados  
-- **Web & Mobile:** Desenvolvimento e manutenção de plataformas Web e aplicações Android/iOS  
-- **Segurança Informática:** Implementação e manutenção de políticas de segurança  
-- **Multimédia:** Edição de vídeo e modelação 3D  
-
----
-
-# Atividades Desenvolvidas no Âmbito do Curso
-
-- Planear, desenvolver e manter plataformas Web  
-- Planear, desenvolver e manter aplicações móveis (Android e iOS)  
-- Instalar, configurar e manter sistemas operativos de clientes e servidores  
-- Instalar e manter aplicações informáticas  
-- Conceber algoritmos e resolver problemas através da decomposição lógica  
-- Desenvolver aplicações utilizando linguagens procedimentais e visuais  
-- Conceber, implementar e manter bases de dados  
-- Instalar e configurar servidores Web e infraestruturas de rede  
-- Instalar e manter computadores, periféricos e redes locais  
+| | |
+|---|---|
+| **Curso** | Técnico de Gestão e Programação de Sistemas Informáticos — P56 |
+| **Nível** | Secundário · Qualificação Profissional Nível 4 (QNQ/QEQ) |
+| **Equivalência** | 12.º ano de escolaridade |
+| **Área** | 481 — Ciências Informáticas |
+| **Escola** | [OFICINA](https://oficina.pt/) — R. Instituto Nun'Álvares, 4784-907 Areias, Santo Tirso |
+| **Turma / N.º** | 1.º I · 14785 |
+| **Ano Letivo** | 2025 / 2026 |
 
 ---
 
-# Áreas de Interesse
+## 🛠️ Domínio Técnico
 
-- Desenvolvimento de software  
-- Redes e administração de sistemas  
-- Automação e scripting  
-- Segurança informática  
-- Desenvolvimento Web e Mobile  
-- Multimédia e modelação 3D  
+### Programação e Algoritmia
+- **Python** — programação estruturada, funções, estruturas de dados
+- **C** — fundamentos de programação procedimental
+- **Algoritmia** — decomposição de problemas, pseudocódigo, fluxogramas
 
----
+### Sistemas e Hardware
+- Instalação, configuração e manutenção de computadores e periféricos
+- Instalação e configuração de **Sistemas Operativos** (cliente e servidor)
+- Diagnóstico e reparação de equipamentos informáticos
 
-# Plano de Estudos (Resumo)
+### Redes e Infraestrutura
+- Instalação e configuração de redes locais (LAN)
+- Configuração de servidores e equipamentos de comunicação
+- Noções de segurança informática
 
-**Formação Sociocultural:** Português, Língua Estrangeira, Área de Integração, Educação Física, TIC, EMR  
-**Formação Científica:** Matemática, Física e Química  
-**Formação Técnica:**  
-- Sistemas Operativos  
-- Arquitetura de Computadores  
-- Redes de Comunicação  
-- Programação e Sistemas de Informação  
-- Formação em Contexto de Trabalho (600h)
+### Bases de Dados e Web
+- Conceção e implementação de bases de dados
+- Desenvolvimento de plataformas Web
+- Desenvolvimento de aplicações Android/iOS
 
----
-
-# Saídas Profissionais
-
-- Programador de Software  
-- Web Developer  
-- Gestor de Redes  
-- Gestor de Conteúdos  
-- Técnico de Help Desk  
-
-**Locais de trabalho típicos:**  
-Empresas de informática, software houses, empresas de desenvolvimento Web, serviços para a Internet e departamentos de TI de qualquer organização.
+### Multimédia
+- **Edição de vídeo**
+- **Modelação 3D**
 
 ---
 
-# Objetivos Futuros
+## 📂 Portefólio — Módulo 3: Programação Estruturada em Python
 
-- Aprofundar conhecimentos em desenvolvimento backend e redes  
-- Criar projetos práticos para consolidar competências  
-- Construir um portefólio sólido no GitHub  
-- Preparar o acesso ao ensino superior na área das tecnologias de informação
+### Trabalhos Práticos
+
+| Repositório | Tema | Conteúdo |
+|-------------|------|----------|
+| [Trabalho-Pratico-01-M3](https://github.com/a14785-oficina/Trabalho-Pratico-01-M3) | Introdução ao Python | `print()`, `input()`, tipos, `int()` |
+| [Trabalho-Pratico-02-M3](https://github.com/a14785-oficina/Trabalho-Pratico-02-M3) | Variáveis e Tipos de Dados | `int`, `float`, operadores aritméticos |
+| [Trabalho-Pratico-03-M3](https://github.com/a14785-oficina/Trabalho-Pratico-03-M3) | Operadores | Relacionais, lógicos, módulo `%` |
+| [Trabalho-Pratico-04-M3](https://github.com/a14785-oficina/Trabalho-Pratico-04-M3) | Estruturas Condicionais | `if / elif / else` |
+
+### Exercícios Práticos
+
+| Repositório | Exercício | Tema |
+|-------------|-----------|------|
+| [Estruturas-Condicionais-em-Python](https://github.com/a14785-oficina/Estruturas-Condicionais-em-Python) | EXPA01 | 15 exercícios de condicionais (3 níveis) |
+| [Ciclos-While-e-For](https://github.com/a14785-oficina/Ciclos-While-e-For) | EXPA02 | 10 exercícios de ciclos (3 níveis) |
+| [Ficha-Pratica-de-Sintese-M3](https://github.com/a14785-oficina/Ficha-Pratica-de-Sintese-M3) | EXPA03 | Sistema de Gestão de Notas |
+| [Exercicio_Pratico_04_-_Modulo_3_-_Ficha_Pratica_de_Sintese](https://github.com/a14785-oficina/Exercicio_Pratico_04_-_Modulo_3_-_Ficha_Pratica_de_Sintese) | EXPA04 | Sistema de Gestão de Stock |
+
+---
+
+## 🚀 Objetivos
+
+- Aprofundar conhecimentos em **Python**, **desenvolvimento backend** e **redes**
+- Construir um **portefólio sólido** no GitHub com projetos práticos do curso
+- Aceder ao **ensino superior** ou mercado de trabalho na área das TI
+
+---
+
+## 🌐 Links
+
+[![Google Sites](https://img.shields.io/badge/Google_Sites-Portefólio-4285F4?logo=google&logoColor=white)](https://sites.google.com/oficina.pt/1i-12345-2526)
+[![OFICINA](https://img.shields.io/badge/Escola-OFICINA-orange?logo=graduation-cap)](https://oficina.pt/)
+
+---
+
+<p align="center">
+  <em>Curso GPSI · PSI · OFICINA · Santo Tirso · 2025/2026</em>
+</p>
